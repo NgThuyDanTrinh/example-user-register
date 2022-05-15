@@ -1,5 +1,0 @@
-name: 'ex93'
-type: module
-description: 'Example of a simple custom form'
-core: 9.x
-package: 'Custom'
