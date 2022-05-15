@@ -1,0 +1,7 @@
+ex93.example-user-register:
+  path: '/ex93/example-user-register'
+  defaults:
+    _form: 'Drupal\ex93\Form\example-user-register'
+    _title: 'Simple custom form example'
+  requirements:
+    _permission: 'access content'
